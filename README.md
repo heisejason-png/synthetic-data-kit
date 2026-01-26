@@ -481,3 +481,4 @@ Read more about the [License](./LICENSE)
 ## Contributing
 
 Contributions are welcome! [Read our contributing guide](./CONTRIBUTING.md)
+Created by Jason Scott Heise
