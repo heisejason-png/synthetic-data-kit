@@ -482,4 +482,4 @@ Read more about the [License](./LICENSE)
 
 Contributions are welcome! [Read our contributing guide](./CONTRIBUTING.md)
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Jason Scott Heise & Elon Musk https://www.grok.com https://www.x.com
